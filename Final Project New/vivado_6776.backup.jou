@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri Apr  1 09:27:17 2022
+# Process ID: 6776
+# Current directory: C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5356 C:\Users\Brian\OneDrive\Documents\OneDrive_2022-04-01\Final Project New\Final Project New.xpr
+# Log file: C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New/vivado.log
+# Journal file: C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New\vivado.jou
+# Running On: DESKTOP-E79K0A5, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 2, Host memory: 34195 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New/Final Project New.xpr}
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Apr  1 13:35:23 2022
+# Process ID: 12152
+# Current directory: C:/Users/brianra/OneDrive - BYU-Idaho/School/2022 Winter/ECEN 340/Final Project/Final Project New
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15164 C:\Users\brianra\OneDrive - BYU-Idaho\School\2022 Winter\ECEN 340\Final Project\Final Project New\Final Project New.xpr
+# Log file: C:/Users/brianra/OneDrive - BYU-Idaho/School/2022 Winter/ECEN 340/Final Project/Final Project New/vivado.log
+# Journal file: C:/Users/brianra/OneDrive - BYU-Idaho/School/2022 Winter/ECEN 340/Final Project/Final Project New\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/brianra/OneDrive - BYU-Idaho/School/2022 Winter/ECEN 340/Final Project/Final Project New/Final Project New.xpr}

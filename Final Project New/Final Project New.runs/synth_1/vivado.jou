@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri Apr  1 09:44:36 2022
+# Process ID: 4672
+# Current directory: C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New/Final Project New.runs/synth_1
+# Command line: vivado.exe -log control_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source control_top.tcl
+# Log file: C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New/Final Project New.runs/synth_1/control_top.vds
+# Journal file: C:/Users/Brian/OneDrive/Documents/OneDrive_2022-04-01/Final Project New/Final Project New.runs/synth_1\vivado.jou
+# Running On: DESKTOP-E79K0A5, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 2, Host memory: 34195 MB
+#-----------------------------------------------------------
+source control_top.tcl -notrace
