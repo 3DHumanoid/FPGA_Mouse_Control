@@ -1,4 +1,4 @@
-# FPGA_Mouse_Control
+# FPGA_Mouse_Control - Coded in Verilog
 FPGA Mouse Control
 
 ECEN 340 
